@@ -1,0 +1,389 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "calculator;\"add\"-two-numbers",
+        "keyword": "Scenario Outline",
+        "line": 29,
+        "name": "\"add\" two numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I have a Calculator",
+            "match": {
+              "location": "step_definations/calc.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 758540
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I \"add\" 2 and 3",
+            "match": {
+              "location": "step_definations/calc.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 112084
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I see result as 5",
+            "match": {
+              "location": "step_definations/calc.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 405291
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "calculator;\"add\"-two-numbers",
+        "keyword": "Scenario Outline",
+        "line": 30,
+        "name": "\"add\" two numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I have a Calculator",
+            "match": {
+              "location": "step_definations/calc.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26958
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I \"add\" 5 and 7",
+            "match": {
+              "location": "step_definations/calc.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 41625
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I see result as 12",
+            "match": {
+              "location": "step_definations/calc.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 103250
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "calculator;\"add\"-two-numbers",
+        "keyword": "Scenario Outline",
+        "line": 31,
+        "name": "\"add\" two numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I have a Calculator",
+            "match": {
+              "location": "step_definations/calc.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 23459
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I \"add\" 10 and 20",
+            "match": {
+              "location": "step_definations/calc.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 37916
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I see result as 30",
+            "match": {
+              "location": "step_definations/calc.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 104542
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "calculator;\"sub\"-two-numbers",
+        "keyword": "Scenario Outline",
+        "line": 32,
+        "name": "\"sub\" two numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I have a Calculator",
+            "match": {
+              "location": "step_definations/calc.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 75042
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I \"sub\" 23 and 3",
+            "match": {
+              "location": "step_definations/calc.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 43167
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I see result as 20",
+            "match": {
+              "location": "step_definations/calc.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31167
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "calculator;\"sub\"-two-numbers",
+        "keyword": "Scenario Outline",
+        "line": 33,
+        "name": "\"sub\" two numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I have a Calculator",
+            "match": {
+              "location": "step_definations/calc.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 18749
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I \"sub\" 15 and 7",
+            "match": {
+              "location": "step_definations/calc.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 27291
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I see result as 8",
+            "match": {
+              "location": "step_definations/calc.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26791
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "calculator;\"sub\"-two-numbers",
+        "keyword": "Scenario Outline",
+        "line": 34,
+        "name": "\"sub\" two numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I have a Calculator",
+            "match": {
+              "location": "step_definations/calc.steps.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 100750
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "I \"sub\" 10 and 5",
+            "match": {
+              "location": "step_definations/calc.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28749
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "I see result as 5",
+            "match": {
+              "location": "step_definations/calc.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26374
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "calculator",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Calculator",
+    "tags": [],
+    "uri": "features/caiculator.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "example-to-demonstrate-the-concept-of-data-tables;register-a-new-student",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Register a new student",
+        "steps": [
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "firstname",
+                      "John"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "lastname",
+                      "Doe"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "address",
+                      "1234 Main st"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "phone",
+                      "1234564327"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "email",
+                      "test@test.com"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "password",
+                      "sdghjteu678gfsdk"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I have a student with below details",
+            "match": {
+              "location": "step_definations/datatables.steps.ts:3"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 347750
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "example-to-demonstrate-the-concept-of-data-tables",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Example to demonstrate the concept of data tables",
+    "tags": [],
+    "uri": "features/datatables.feature"
+  }
+]
